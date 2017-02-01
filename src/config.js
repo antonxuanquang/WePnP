@@ -1,0 +1,1 @@
+export const API_SERVER_URL = "https://food-sharing-api-antonxuanquang.c9users.io/";

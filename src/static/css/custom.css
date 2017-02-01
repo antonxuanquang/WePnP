@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
+
+body {
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  padding-bottom: 200px;
+}
+h1, h2, h3 {
+  font-family: "Montserrat", "sans-serif";
+}
+
+.homepage-cover .home-widget-title {
+    font-weight: bold;
+}
+
+.type-job_listing.style-grid .job_listing-entry-footer {
+    padding: 1em 1em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.job_listing-entry-footer .job_listing-rating-wrapper {
+    flex: 1 0 auto;
+}
+
+.job_listing-entry-footer .job_listing-reviews {
+    display: inline;
+}
+
+.job_listing-rating-stars {
+    font-size: large;
+}
+
+.ui.form.row.content-area {
+    padding: 2em 5em;
+    background-color: white;
+}
+
